@@ -25,6 +25,6 @@
     * [1.5.3 “收发快递”和“运送快递”](di-1-zhang-chuan-song-wang-shi-gan-sha-de/15-chu-shi-chuan-song-wang/153-201c-shou-fa-kuai-di-201d-he-201c-yun-song-kuai-di-201d.md)
     * [1.5.4 资源要共享——复用](di-1-zhang-chuan-song-wang-shi-gan-sha-de/15-chu-shi-chuan-song-wang/154-zi-yuan-yao-gong-xiang-2014-2014-fu-yong.md)
   * [1.6 不得不说的一些事](di-1-zhang-chuan-song-wang-shi-gan-sha-de/16-bu-de-bu-shuo-de-yi-xie-shi.md)
-    * 1.6.1 层面很重要
-    * 1.6.2 标准与协议
+    * [1.6.1 层面很重要](di-1-zhang-chuan-song-wang-shi-gan-sha-de/16-bu-de-bu-shuo-de-yi-xie-shi/161-ceng-mian-hen-zhong-yao.md)
+    * [1.6.2 标准与协议](di-1-zhang-chuan-song-wang-shi-gan-sha-de/16-bu-de-bu-shuo-de-yi-xie-shi/162-biao-zhun-yu-xie-yi.md)
 
