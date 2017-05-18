@@ -24,9 +24,5 @@
     * [1.5.2 你是光，你是唯一的神话](di-1-zhang-chuan-song-wang-shi-gan-sha-de/15-chu-shi-chuan-song-wang/152-ni-shi-guang-ff0c-ni-shi-wei-yi-de-shen-hua.md)
     * [1.5.3 “收发快递”和“运送快递”](di-1-zhang-chuan-song-wang-shi-gan-sha-de/15-chu-shi-chuan-song-wang/153-201c-shou-fa-kuai-di-201d-he-201c-yun-song-kuai-di-201d.md)
     * [1.5.4 资源要共享——复用](di-1-zhang-chuan-song-wang-shi-gan-sha-de/15-chu-shi-chuan-song-wang/154-zi-yuan-yao-gong-xiang-2014-2014-fu-yong.md)
-      * [空分复用](di-1-zhang-chuan-song-wang-shi-gan-sha-de/15-chu-shi-chuan-song-wang/154-zi-yuan-yao-gong-xiang-2014-2014-fu-yong/kong-fen-fu-yong.md)
-      * 时分复用
-      * [频分复用](di-1-zhang-chuan-song-wang-shi-gan-sha-de/15-chu-shi-chuan-song-wang/154-zi-yuan-yao-gong-xiang-2014-2014-fu-yong/pin-fen-fu-yong.md)
-      * [码分复用](di-1-zhang-chuan-song-wang-shi-gan-sha-de/15-chu-shi-chuan-song-wang/154-zi-yuan-yao-gong-xiang-2014-2014-fu-yong/ma-fen-fu-yong.md)
   * 1.6 不得不说的一些事
 
