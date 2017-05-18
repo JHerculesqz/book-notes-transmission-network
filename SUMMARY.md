@@ -13,7 +13,12 @@
     * [1.3.2 退而求其次——量化](di-1-zhang-chuan-song-wang-shi-gan-sha-de/13-0201d-548c22-1-de-shi-jie-2014-2014-shu-zi-tong-xin/132-tui-er-qiu-qi-ci-2014-2014-liang-hua.md)
     * [1.3.3 信息翻译官——编码](di-1-zhang-chuan-song-wang-shi-gan-sha-de/13-0201d-548c22-1-de-shi-jie-2014-2014-shu-zi-tong-xin/133-xin-xi-fan-yi-guan-2014-2014-bian-ma.md)
     * [1.3.4 题外话——数字通信，断喙重生](di-1-zhang-chuan-song-wang-shi-gan-sha-de/13-0201d-548c22-1-de-shi-jie-2014-2014-shu-zi-tong-xin/134-ti-wai-hua-2014-2014-shu-zi-tong-xin-ff0c-duan-hui-zhong-sheng.md)
-  * 1.4 把信息交给网络
+  * [1.4 把信息交给网络](di-1-zhang-chuan-song-wang-shi-gan-sha-de/14-ba-xin-xi-jiao-gei-wang-luo.md)
+    * [1.4.1 业务网是啥](di-1-zhang-chuan-song-wang-shi-gan-sha-de/14-ba-xin-xi-jiao-gei-wang-luo/141-ye-wu-wang-shi-sha.md)
+    * [1.4.2 数字移动通信——GSM](di-1-zhang-chuan-song-wang-shi-gan-sha-de/14-ba-xin-xi-jiao-gei-wang-luo/142-shu-zi-yi-dong-tong-xin-2014-2014-gsm.md)
+    * [1.4.3 我们需要一个接口](di-1-zhang-chuan-song-wang-shi-gan-sha-de/14-ba-xin-xi-jiao-gei-wang-luo/143-wo-men-xu-yao-yi-ge-jie-kou.md)
+    * [1.4.4 一个重要接口——E1](di-1-zhang-chuan-song-wang-shi-gan-sha-de/14-ba-xin-xi-jiao-gei-wang-luo/144-yi-ge-zhong-yao-jie-kou-2014-2014-e1.md)
+    * [1.4.5 E1的特点](di-1-zhang-chuan-song-wang-shi-gan-sha-de/14-ba-xin-xi-jiao-gei-wang-luo/145-e1de-te-dian.md)
   * 1.5 初识传送网
   * 1.6 不得不说的一些事
 
