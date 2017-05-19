@@ -57,4 +57,5 @@
     * [2.5.5 接入工程，小试牛刀](di-2-zhang-gang-xing-tong-dao-shi-dai/25-yu-mstp-de-qin-mi-jie-hong/255-jie-ru-gong-cheng-ff0c-xiao-shi-niu-dao.md)
   * [2.6 网络大了会出问题](di-2-zhang-gang-xing-tong-dao-shi-dai/26-wang-luo-da-le-hui-chu-wen-ti.md)
     * [2.6.1 容量不够怎么办](di-2-zhang-gang-xing-tong-dao-shi-dai/26-wang-luo-da-le-hui-chu-wen-ti/261-rong-liang-bu-gou-zen-yao-ban.md)
+    * [2.6.2 分层建设，发展壮大](di-2-zhang-gang-xing-tong-dao-shi-dai/26-wang-luo-da-le-hui-chu-wen-ti/262-fen-ceng-jian-she-ff0c-fa-zhan-zhuang-da.md)
 
