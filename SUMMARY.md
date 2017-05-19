@@ -51,4 +51,5 @@
     * [2.4.4 八仙过海——子网连接保护](di-2-zhang-gang-xing-tong-dao-shi-dai/24-dong-fang-bu-liang-xi-fang-liang-2014-2014-bao-hu/244-ba-xian-guo-hai-2014-2014-zi-wang-lian-jie-bao-hu.md)
   * [2.5 与MSTP的亲密接触](di-2-zhang-gang-xing-tong-dao-shi-dai/25-yu-mstp-de-qin-mi-jie-hong.md)
     * [2.5.1 读懂设备的名片](di-2-zhang-gang-xing-tong-dao-shi-dai/25-yu-mstp-de-qin-mi-jie-hong/251-du-dong-she-bei-de-ming-pian.md)
+    * [2.5.2 环和链的世界](di-2-zhang-gang-xing-tong-dao-shi-dai/25-yu-mstp-de-qin-mi-jie-hong/252-huan-he-lian-de-shi-jie.md)
 
