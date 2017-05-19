@@ -61,8 +61,9 @@
     * [2.6.3 我给网络当医生](di-2-zhang-gang-xing-tong-dao-shi-dai/26-wang-luo-da-le-hui-chu-wen-ti/263-wo-gei-wang-luo-dang-yi-sheng.md)
     * [2.6.4 基础架构很重要](di-2-zhang-gang-xing-tong-dao-shi-dai/26-wang-luo-da-le-hui-chu-wen-ti/264-ji-chu-jia-gou-hen-zhong-yao.md)
 * [第3章 光通信高速干道](di-3-zhang-guang-tong-xin-gao-su-gan-dao.md)
-  * 3.1 多层巴士——波分复用
-  * 3.2 高速互通立交——OTN
+  * [3.1 多层巴士——波分复用](di-3-zhang-guang-tong-xin-gao-su-gan-dao/31-duo-ceng-ba-shi-2014-2014-bo-fen-fu-yong.md)
+    * [3.1.1 波分的妈妈是彩虹](di-3-zhang-guang-tong-xin-gao-su-gan-dao/31-duo-ceng-ba-shi-2014-2014-bo-fen-fu-yong/311-bo-fen-de-ma-ma-shi-cai-hong.md)
+  * [3.2 高速互通立交——OTN](di-3-zhang-guang-tong-xin-gao-su-gan-dao/32-gao-su-hu-tong-li-jiao-2014-2014-otn.md)
   * [3.3 OTN的保护](di-3-zhang-guang-tong-xin-gao-su-gan-dao/33-otnde-bao-hu.md)
   * [3.4 走进OTN](di-3-zhang-guang-tong-xin-gao-su-gan-dao/34-zou-jin-otn.md)
 
