@@ -1,8 +1,10 @@
 # 帧结构
 
-再生段开销（RSOH）
+RSOH：再生段开销。
 
-复用段开销（MSOH）
+MSOH：复用段开销
+
+（MSOH）
 
 指针（AUPTR）
 
