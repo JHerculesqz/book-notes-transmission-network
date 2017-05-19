@@ -72,5 +72,7 @@
     * [3.2.3 高速立交——光交叉](di-3-zhang-guang-tong-xin-gao-su-gan-dao/32-gao-su-hu-tong-li-jiao-2014-2014-otn/323-gao-su-li-jiao-2014-2014-guang-jiao-cha.md)
     * [3.2.4 论OTN和MSTP的关系](di-3-zhang-guang-tong-xin-gao-su-gan-dao/32-gao-su-hu-tong-li-jiao-2014-2014-otn/324-lun-otn-he-mstp-de-guan-xi.md)
   * [3.3 OTN的保护](di-3-zhang-guang-tong-xin-gao-su-gan-dao/33-otnde-bao-hu.md)
+    * [3.3.1 OTN网络保护](di-3-zhang-guang-tong-xin-gao-su-gan-dao/33-otnde-bao-hu/331-otnwang-luo-bao-hu.md)
+    * [3.3.2 关于保护的度](di-3-zhang-guang-tong-xin-gao-su-gan-dao/33-otnde-bao-hu/332-guan-yu-bao-hu-de-du.md)
   * [3.4 走进OTN](di-3-zhang-guang-tong-xin-gao-su-gan-dao/34-zou-jin-otn.md)
 
