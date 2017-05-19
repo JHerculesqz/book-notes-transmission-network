@@ -63,6 +63,6 @@
 * [第3章 光通信高速干道](di-3-zhang-guang-tong-xin-gao-su-gan-dao.md)
   * 3.1 多层巴士——波分复用
   * 3.2 高速互通立交——OTN
-  * 3.3 OTN的保护
+  * [3.3 OTN的保护](di-3-zhang-guang-tong-xin-gao-su-gan-dao/33-otnde-bao-hu.md)
   * [3.4 走进OTN](di-3-zhang-guang-tong-xin-gao-su-gan-dao/34-zou-jin-otn.md)
 
