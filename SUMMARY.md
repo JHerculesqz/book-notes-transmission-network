@@ -54,4 +54,5 @@
     * [2.5.2 环和链的世界](di-2-zhang-gang-xing-tong-dao-shi-dai/25-yu-mstp-de-qin-mi-jie-hong/252-huan-he-lian-de-shi-jie.md)
     * [2.5.3 能传多远——传送距离的计算](di-2-zhang-gang-xing-tong-dao-shi-dai/25-yu-mstp-de-qin-mi-jie-hong/253-neng-chuan-duo-yuan-2014-2014-chuan-song-ju-li-de-ji-suan.md)
     * [2.5.4 走进机房看一看](di-2-zhang-gang-xing-tong-dao-shi-dai/25-yu-mstp-de-qin-mi-jie-hong/254-zou-jin-ji-fang-kan-yi-kan.md)
+    * 2.5.5 接入工程，小试牛刀
 
