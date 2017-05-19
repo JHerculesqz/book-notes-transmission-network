@@ -1,6 +1,4 @@
-DWDM：粗波
+CWDM：粗波
 
-CWDM：密波
-
-
+DWDM：密波
 
