@@ -12,11 +12,9 @@ length/T：以太帧1帧的长度是64byte~1.5Kbyte。
 
 FCS：帧校验。
 
-
+![](/assets/IMG_20170519_150740.jpg)
 
 # 常用以太网接口类型
 
 100M（FE接口）、GE、10GE
-
-
 
