@@ -46,7 +46,7 @@
     * [2.3.3 修车还是换车](di-2-zhang-gang-xing-tong-dao-shi-dai/23-mstpyu-shi-ju-jin/233-xiu-che-huan-shi-huan-che.md)
   * [2.4 东方不亮西方亮——保护](di-2-zhang-gang-xing-tong-dao-shi-dai/24-dong-fang-bu-liang-xi-fang-liang-2014-2014-bao-hu.md)
     * [2.4.1 保护的前提是冗余](di-2-zhang-gang-xing-tong-dao-shi-dai/24-dong-fang-bu-liang-xi-fang-liang-2014-2014-bao-hu/241-bao-hu-de-qian-ti-shi-rong-yu.md)
-    * 2.4.2 双管齐下——通道保护
+    * [2.4.2 双管齐下——通道保护](di-2-zhang-gang-xing-tong-dao-shi-dai/24-dong-fang-bu-liang-xi-fang-liang-2014-2014-bao-hu/242-shuang-guan-qi-xia-2014-2014-tong-dao-bao-hu.md)
     * 2.4.3 择路绕行——复用段保护
     * 2.4.4 八仙过海——子网连接保护
 
