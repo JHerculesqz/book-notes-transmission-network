@@ -44,5 +44,9 @@
     * [2.3.1 数据风暴来袭——3G移动网](di-2-zhang-gang-xing-tong-dao-shi-dai/23-mstpyu-shi-ju-jin/231-shu-ju-feng-bao-lai-xi-2014-2014-3g-yi-dong-wang.md)
     * [2.3.2 又一个重要接口——以太网](di-2-zhang-gang-xing-tong-dao-shi-dai/23-mstpyu-shi-ju-jin/232-you-yi-ge-zhong-yao-jie-kou-2014-2014-yi-tai-wang.md)
     * [2.3.3 修车还是换车](di-2-zhang-gang-xing-tong-dao-shi-dai/23-mstpyu-shi-ju-jin/233-xiu-che-huan-shi-huan-che.md)
-  * 2.4 东方不亮西方亮——保护
+  * [2.4 东方不亮西方亮——保护](di-2-zhang-gang-xing-tong-dao-shi-dai/24-dong-fang-bu-liang-xi-fang-liang-2014-2014-bao-hu.md)
+    * [2.4.1 保护的前提是冗余](di-2-zhang-gang-xing-tong-dao-shi-dai/24-dong-fang-bu-liang-xi-fang-liang-2014-2014-bao-hu/241-bao-hu-de-qian-ti-shi-rong-yu.md)
+    * 2.4.2 双管齐下——通道保护
+    * 2.4.3 择路绕行——复用段保护
+    * 2.4.4 八仙过海——子网连接保护
 
