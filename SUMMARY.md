@@ -90,5 +90,9 @@
     * [4.3.3 智能导航系统——路由](43-san-ceng-lu-you/433-zhi-neng-dao-hang-xi-tong-2014-2014-lu-you.md)
   * [4.4 动态路由协议](44-dong-tai-lu-you-xie-yi.md)
   * [4.5 IP不是万能的](45-ipbu-shi-wan-neng-de.md)
-  * 4.6 VPN
+  * [4.6 VPN](46-vpn.md)
+    * [4.6.1 业务需要隔离](46-vpn/461-ye-wu-xu-yao-ge-li.md)
+    * 4.6.2 MPLS VPN
+    * 4.6.3 通往彼岸的传送门——L2VPN
+    * 4.6.4 复杂问题简单化——L3VPN
 
