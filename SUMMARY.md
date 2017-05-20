@@ -115,9 +115,9 @@
     * [5.6.2 业务侧保护](di-5-zhang-fen-zu-chuan-song-wang/56-fen-zu-wang-bao-hu/562-ye-wu-ce-bao-hu.md)
     * [5.6.3 典型保护应用](di-5-zhang-fen-zu-chuan-song-wang/56-fen-zu-wang-bao-hu/563-dian-xing-bao-hu-ying-yong.md)
   * [5.7 分组网同步技术](di-5-zhang-fen-zu-chuan-song-wang/57-fen-zu-wang-tong-bu-ji-zhu.md)
-    * 5.7.1 时钟同步和时间同步
-    * 5.7.2 同步以太网
-    * 5.7.3 1588v2时间同步
+    * [5.7.1 时钟同步和时间同步](di-5-zhang-fen-zu-chuan-song-wang/57-fen-zu-wang-tong-bu-ji-zhu/571-shi-zhong-tong-bu-he-shi-jian-tong-bu.md)
+    * [5.7.2 同步以太网](di-5-zhang-fen-zu-chuan-song-wang/57-fen-zu-wang-tong-bu-ji-zhu/572-tong-bu-yi-tai-wang.md)
+    * [5.7.3 1588v2时间同步](di-5-zhang-fen-zu-chuan-song-wang/57-fen-zu-wang-tong-bu-ji-zhu/573-1588v2shi-jian-tong-bu.md)
   * [5.8 走进分组网](di-5-zhang-fen-zu-chuan-song-wang/58-zou-jin-fen-zu-wang.md)
     * 5.8.1 分组网设备
     * [5.8.2 分组网结构](di-5-zhang-fen-zu-chuan-song-wang/58-zou-jin-fen-zu-wang/582-fen-zu-wang-jie-gou.md)
