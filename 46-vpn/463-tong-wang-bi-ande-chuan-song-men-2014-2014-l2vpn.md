@@ -4,7 +4,7 @@
 
 # L2 VPN的标签格式和标签变化流程
 
-* STEP1.源PE添加隧道标签、VPN标签
+* STEP1.源PE添加隧道标签、VPN标签、目的MAC地址
 * STEP2.源PE添加二层头部
   * 二层头部是下一跳Por宿PE的MAC地址
 * STEP3.源PEorP根据二层头部向下一跳转发报文
