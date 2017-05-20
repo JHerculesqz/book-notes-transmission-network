@@ -9,7 +9,24 @@
 
 ![](/assets/Figure-0166-161.jpg)
 
-![](/assets/Figure-0168-163.jpg)
+# ![](/assets/Figure-0168-163.jpg)L2 VPN技术分类
+
+* 点对点
+* 点对多点
+* 多点对多点
+
+
+
+# L2 VPN的具体实现
+
+* PWE3
+* PWE3适合应用于点对点、点对多点
+
+
+
+# L2 VPN的本质
+
+* 类似二层交换机，记录了MAC地址表
 
 
 
