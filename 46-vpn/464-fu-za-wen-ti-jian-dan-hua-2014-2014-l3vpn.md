@@ -9,5 +9,7 @@
 * STEP3.源PEorP根据二层头部向下一跳转发报文
 * STEP4.Por宿PE收到报文后，更新报文的二层头部，更新为下一跳的MAC地址
 
+![](/assets/Figure-0170-166.jpg)
+
 
 
