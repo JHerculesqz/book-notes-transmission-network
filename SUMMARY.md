@@ -86,7 +86,7 @@
     * [4.2.4 局域网也要隔离——VLAN](42-er-ceng-jiao-huan/424-ju-yu-wang-ye-yao-ge-li-2014-2014-vlan.md)
   * [4.3 三层路由](43-san-ceng-lu-you.md)
     * [4.3.1 IP地址](43-san-ceng-lu-you/431-ipdi-zhi.md)
-    * 4.3.2 走出国门第一步——网关
+    * [4.3.2 走出国门第一步——网关](43-san-ceng-lu-you/432-zou-chu-guo-men-di-yi-bu-2014-2014-wang-guan.md)
     * 4.3.3 智能导航系统——路由
   * 4.4 动态路由协议
   * 4.5 IP不是万能的
