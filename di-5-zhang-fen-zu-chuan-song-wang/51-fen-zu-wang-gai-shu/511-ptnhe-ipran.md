@@ -5,12 +5,14 @@
 * PTN现在的含义：MPLS-TP
 * IPRAN现在的含义：IP/MPLS
 
-PTN的本质
+# PTN的本质
 
 * PTN的本质：吸收了MPLS的L2VPN特性+OAM
 * MPLS-TP=MPLS-L3复杂性+OAM
 
+# IPRAN的本质
 
+* 支持第4章所有IP化的特性
 
 
 
