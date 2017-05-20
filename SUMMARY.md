@@ -119,6 +119,6 @@
     * [5.7.2 同步以太网](di-5-zhang-fen-zu-chuan-song-wang/57-fen-zu-wang-tong-bu-ji-zhu/572-tong-bu-yi-tai-wang.md)
     * [5.7.3 1588v2时间同步](di-5-zhang-fen-zu-chuan-song-wang/57-fen-zu-wang-tong-bu-ji-zhu/573-1588v2shi-jian-tong-bu.md)
   * [5.8 走进分组网](di-5-zhang-fen-zu-chuan-song-wang/58-zou-jin-fen-zu-wang.md)
-    * 5.8.1 分组网设备
+    * [5.8.1 分组网设备](di-5-zhang-fen-zu-chuan-song-wang/58-zou-jin-fen-zu-wang/581-fen-zu-wang-she-bei.md)
     * [5.8.2 分组网结构](di-5-zhang-fen-zu-chuan-song-wang/58-zou-jin-fen-zu-wang/582-fen-zu-wang-jie-gou.md)
 
