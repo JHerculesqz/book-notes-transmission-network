@@ -82,7 +82,7 @@
   * [4.2 二层交换](42-er-ceng-jiao-huan.md)
     * [4.2.1 计算机网络分层](42-er-ceng-jiao-huan/421-ji-suan-ji-wang-luo-fen-ceng.md)
     * [4.2.2 从最底层说起——物理层](42-er-ceng-jiao-huan/422-cong-zui-di-ceng-shuo-qi-2014-2014-wu-li-ceng.md)
-    * 4.2.3 通信基本靠吼
+    * [4.2.3 通信基本靠吼](42-er-ceng-jiao-huan/423-tong-xin-ji-ben-kao-hou.md)
     * 4.2.4 局域网也要隔离——VLAN
   * 4.3 三层路由
   * 4.4 动态路由协议
