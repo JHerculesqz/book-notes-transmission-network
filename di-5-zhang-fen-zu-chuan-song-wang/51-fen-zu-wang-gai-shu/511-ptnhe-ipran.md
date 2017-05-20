@@ -5,6 +5,8 @@
 * PTN现在的含义：MPLS-TP
 * IPRAN现在的含义：IP/MPLS
 
+![](/assets/Figure-0174-169.jpg)
+
 # PTN的本质
 
 * PTN的本质：吸收了MPLS的L2VPN特性+OAM
@@ -16,8 +18,8 @@
 
 # PTN与IPRAN的区别
 
-* PTN的控制平面在网管
-* IPRAN的控制平面在设备
+* PTN的控制平面在网管，中央集权
+* IPRAN的控制平面在设备，民主共和
 
 
 
