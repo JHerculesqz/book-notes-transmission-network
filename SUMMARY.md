@@ -87,7 +87,7 @@
   * [4.3 三层路由](43-san-ceng-lu-you.md)
     * [4.3.1 IP地址](43-san-ceng-lu-you/431-ipdi-zhi.md)
     * [4.3.2 走出国门第一步——网关](43-san-ceng-lu-you/432-zou-chu-guo-men-di-yi-bu-2014-2014-wang-guan.md)
-    * 4.3.3 智能导航系统——路由
+    * [4.3.3 智能导航系统——路由](43-san-ceng-lu-you/433-zhi-neng-dao-hang-xi-tong-2014-2014-lu-you.md)
   * 4.4 动态路由协议
   * 4.5 IP不是万能的
   * 4.6 VPN
