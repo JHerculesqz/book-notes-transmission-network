@@ -96,7 +96,9 @@
     * [4.6.3 通往彼岸的传送门——L2VPN](46-vpn/463-tong-wang-bi-ande-chuan-song-men-2014-2014-l2vpn.md)
     * [4.6.4 复杂问题简单化——L3VPN](46-vpn/464-fu-za-wen-ti-jian-dan-hua-2014-2014-l3vpn.md)
 * [第5章 分组传送网](di-5-zhang-fen-zu-chuan-song-wang.md)
-  * 5.1 分组网概述
+  * [5.1 分组网概述](di-5-zhang-fen-zu-chuan-song-wang/51-fen-zu-wang-gai-shu.md)
+    * [5.1.1 PTN和IPRAN](di-5-zhang-fen-zu-chuan-song-wang/51-fen-zu-wang-gai-shu/511-ptnhe-ipran.md)
+    * 5.1.2 需要什么样的分组网
   * 5.2 海纳百川——分组网业务承载
   * 5.3 缓堵保畅——流量工程
   * 5.4 看人下菜碟——QoS
