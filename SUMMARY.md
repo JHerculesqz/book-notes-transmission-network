@@ -75,4 +75,13 @@
     * [3.3.1 OTN网络保护](di-3-zhang-guang-tong-xin-gao-su-gan-dao/33-otnde-bao-hu/331-otnwang-luo-bao-hu.md)
     * [3.3.2 关于保护的度](di-3-zhang-guang-tong-xin-gao-su-gan-dao/33-otnde-bao-hu/332-guan-yu-bao-hu-de-du.md)
   * [3.4 走进OTN](di-3-zhang-guang-tong-xin-gao-su-gan-dao/34-zou-jin-otn.md)
+* [第4章 走进IP的世界](di-4-zhang-zou-jin-ip-de-shi-jie.md)
+  * [4.1 IP VS MSTP](41-ip-vs-mstp.md)
+    * [4.1.1 计算机通信王国](41-ip-vs-mstp/411-ji-suan-ji-tong-xin-wang-guo.md)
+    * 4.1.2 MSTP OUT\(落伍\)了
+  * 4.2 二层交换
+  * 4.3 三层路由
+  * 4.4 动态路由协议
+  * 4.5 IP不是万能的
+  * 4.6 VPN
 
