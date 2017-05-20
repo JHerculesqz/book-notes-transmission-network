@@ -107,7 +107,7 @@
     * [5.3.1 什么是流量工程](di-5-zhang-fen-zu-chuan-song-wang/53-huan-du-bao-chang-2014-2014-liu-liang-gong-cheng/531-shi-yao-shi-liu-liang-gong-cheng.md)
     * [5.3.2 RSVP-TE](di-5-zhang-fen-zu-chuan-song-wang/53-huan-du-bao-chang-2014-2014-liu-liang-gong-cheng/532-rsvp-te.md)
   * [5.4 看人下菜碟——QoS](di-5-zhang-fen-zu-chuan-song-wang/54-kan-ren-xia-cai-die-2014-2014-qos.md)
-    * 5.4.1 什么是QoS
+    * [5.4.1 什么是QoS](di-5-zhang-fen-zu-chuan-song-wang/54-kan-ren-xia-cai-die-2014-2014-qos/541-shi-yao-shi-qos.md)
     * 5.4.2 QoS能做些什么
   * [5.5 说说OAM](di-5-zhang-fen-zu-chuan-song-wang/55-shuo-shuo-oam.md)
   * [5.6 分组网保护](di-5-zhang-fen-zu-chuan-song-wang/56-fen-zu-wang-bao-hu.md)
