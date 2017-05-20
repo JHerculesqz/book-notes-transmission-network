@@ -111,9 +111,9 @@
     * [5.4.2 QoS能做些什么](di-5-zhang-fen-zu-chuan-song-wang/54-kan-ren-xia-cai-die-2014-2014-qos/542-qosneng-zuo-xie-shi-yao.md)
   * [5.5 说说OAM](di-5-zhang-fen-zu-chuan-song-wang/55-shuo-shuo-oam.md)
   * [5.6 分组网保护](di-5-zhang-fen-zu-chuan-song-wang/56-fen-zu-wang-bao-hu.md)
-    * 5.6.1 网络侧保护
-    * 5.6.2 业务侧保护
-    * 5.6.3 典型保护应用
+    * [5.6.1 网络侧保护](di-5-zhang-fen-zu-chuan-song-wang/56-fen-zu-wang-bao-hu/561-wang-luo-ce-bao-hu.md)
+    * [5.6.2 业务侧保护](di-5-zhang-fen-zu-chuan-song-wang/56-fen-zu-wang-bao-hu/562-ye-wu-ce-bao-hu.md)
+    * [5.6.3 典型保护应用](di-5-zhang-fen-zu-chuan-song-wang/56-fen-zu-wang-bao-hu/563-dian-xing-bao-hu-ying-yong.md)
   * [5.7 分组网同步技术](di-5-zhang-fen-zu-chuan-song-wang/57-fen-zu-wang-tong-bu-ji-zhu.md)
     * 5.7.1 时钟同步和时间同步
     * 5.7.2 同步以太网
