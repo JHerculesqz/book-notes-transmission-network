@@ -80,7 +80,7 @@
     * [4.1.1 计算机通信王国](41-ip-vs-mstp/411-ji-suan-ji-tong-xin-wang-guo.md)
     * [4.1.2 MSTP OUT\(落伍\)了](41-ip-vs-mstp/412-mstp-outluo-4f0d29-le.md)
   * [4.2 二层交换](42-er-ceng-jiao-huan.md)
-    * 4.2.1 计算机网络分层
+    * [4.2.1 计算机网络分层](42-er-ceng-jiao-huan/421-ji-suan-ji-wang-luo-fen-ceng.md)
     * 4.2.2 从最底层说起——物理层
     * 4.2.3 通信基本靠吼
     * 4.2.4 局域网也要隔离——VLAN
