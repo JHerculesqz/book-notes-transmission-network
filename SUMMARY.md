@@ -79,7 +79,7 @@
   * [4.1 IP VS MSTP](41-ip-vs-mstp.md)
     * [4.1.1 计算机通信王国](41-ip-vs-mstp/411-ji-suan-ji-tong-xin-wang-guo.md)
     * [4.1.2 MSTP OUT\(落伍\)了](41-ip-vs-mstp/412-mstp-outluo-4f0d29-le.md)
-  * 4.2 二层交换
+  * [4.2 二层交换](42-er-ceng-jiao-huan.md)
   * 4.3 三层路由
   * 4.4 动态路由协议
   * 4.5 IP不是万能的
