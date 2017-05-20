@@ -93,6 +93,6 @@
   * [4.6 VPN](46-vpn.md)
     * [4.6.1 业务需要隔离](46-vpn/461-ye-wu-xu-yao-ge-li.md)
     * [4.6.2 MPLS VPN](46-vpn/462-mpls-vpn.md)
-    * 4.6.3 通往彼岸的传送门——L2VPN
+    * [4.6.3 通往彼岸的传送门——L2VPN](46-vpn/463-tong-wang-bi-ande-chuan-song-men-2014-2014-l2vpn.md)
     * 4.6.4 复杂问题简单化——L3VPN
 
